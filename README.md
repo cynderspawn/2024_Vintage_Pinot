@@ -12,7 +12,7 @@ The analysis integrates:
 ---
 
 ## Notebook
-`notebooks/24pinot_github_ready.ipynb`
+`24pinot_github_ready.ipynb`
 
 Run all cells sequentially.
 
