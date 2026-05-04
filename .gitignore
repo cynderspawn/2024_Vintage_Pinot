@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# =========================
+# Project-specific ignores
+# =========================
+
+# Generated analysis outputs
+outputs/*
+!outputs/.gitkeep
